@@ -64,9 +64,6 @@ The notebook implements machine learning algorithms to forecast sales. The prima
 3. Model Building: Training a regression model to predict sales based on input features.
 4. Model Evaluation: Assessing model accuracy using metrics like RMSE, MAE, and R-squared.
 
-## License
-
-This project is licensed under the MIT License. Feel free to contribute or modify the project as needed.
 
 ## Contributing
 
